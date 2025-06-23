@@ -13,3 +13,4 @@ DOWNLOAD : https://github.com/Drkhaste/DrKhaste-DNS-changer/blob/main/DrKhaste%2
 3-WHEN DON NOT NEED THE APP, CLICK "RESET TO AUTOMATIC":
 
 
+![image](https://github.com/user-attachments/assets/fb6b4dc0-3635-4a27-886a-ee50536895b4)
